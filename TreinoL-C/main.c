@@ -11,4 +11,4 @@ if(idade >= 18){
 else{
     printf("Você é menor de idade");
 }
-}
+} 
